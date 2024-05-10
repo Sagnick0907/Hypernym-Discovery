@@ -1,4 +1,4 @@
-![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/13893637-fbd2-4ac4-a9d9-09b6012d7598)# Hypernym-Discovery
+# Hypernym-Discovery
 To predict ranked list of 15 candidate hypernyms for a target word
 
 
@@ -12,7 +12,7 @@ To predict ranked list of 15 candidate hypernyms for a target word
 
 ## Demo
 Result:  
-![Final 2nd img](![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/caba24d2-6102-495d-b44b-6b6915649b58))  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/75dc1c44-bafb-4962-94ef-6a630296bb27)
 
 ## Overview  
 The task of Hypernym Discovery in the paper is defined as finding and extracting suitable hypernyms for a target input term from a large textual corpus. For each input term the expected output is a ranked list of candidate hypernyms (up to 15) drawn from the provided vocabulary.  
