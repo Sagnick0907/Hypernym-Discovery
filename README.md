@@ -52,5 +52,15 @@ We have proposed 4 methodologies for this project.
 
 
 ## Results  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/d64bd90b-5f4c-49d8-837b-c21daf7661d5)  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/d2c6e9c2-42b8-4278-883c-0c75ff93e91a)  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/a9916a54-8f09-446e-ad0e-478b56739628)  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/bc5eaeea-b62c-469b-a3eb-5a04a2251510)  
+![image](https://github.com/Sagnick0907/Hypernym-Discovery/assets/76872499/bd51db40-88e5-473d-ae77-9aa79f178012)  
+
+
 
 ## Technologies Used
+- VSCode
+- Kaggle
+- Google Colab
